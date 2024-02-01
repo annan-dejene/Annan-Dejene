@@ -1,21 +1,18 @@
 [![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/machine_learning/hero_image-2651c97eb519e2110d34160ff87c9d67990b211b9e81107063c1b62085dd4bc8.svg)](https://www.linkedin.com/in/annan-dejene/)
 <h1 align="center">Hi 👋, I'm Annan Dejene</h1>
-<h3 align="center">An aspiring Machine Learning Engineer from Ethiopia</h3>
+<h3 align="center">An undergraduate student of Computer Engineering at Khalifa University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
 
-- 🔭 I’m currently working on **Amharic TTS**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **annandejene0@gmail.com**
-
-- ⚡ Fun fact **I play football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
